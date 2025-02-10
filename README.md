@@ -21,3 +21,4 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/muhammadraheelnaseem/GPU-Setup-For-DeepLearning.git
 cd GPU-Setup-For-DeepLearning
+```
